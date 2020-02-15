@@ -1,0 +1,14 @@
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\bin\Debug\MerlinInterface.exe.config
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\bin\Debug\MerlinInterface.exe
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\bin\Debug\MerlinInterface.pdb
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.csprojAssemblyReference.cache
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MainWindow.g.cs
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\App.g.cs
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface_MarkupCompile.cache
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface_MarkupCompile.lref
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MainWindow.baml
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.g.resources
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.Properties.Resources.resources
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.csproj.GenerateResource.cache
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.exe
+C:\Users\nandi\source\repos\MerlinCore\MerlinInterface\obj\Debug\MerlinInterface.pdb
