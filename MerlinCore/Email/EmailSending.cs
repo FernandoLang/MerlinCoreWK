@@ -25,8 +25,8 @@ namespace MerlinCore
             client.EnableSsl = true;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.UseDefaultCredentials = false;
-            credential.UserName = "merlin.kingwasp";
-            credential.Password = "Kingwasp4500";
+            credential.UserName = "---";
+            credential.Password = "---";
             client.Credentials = credential;
             //-----------------------------------------------------
             MailMessage message = new MailMessage();
